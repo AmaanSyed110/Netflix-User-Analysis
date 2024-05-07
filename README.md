@@ -1,2 +1,2 @@
-Download the Dataset and import it in drive so you don't need to upload it after every runtime.
-Make sure to restart and run the whole notebook if you commit any changes in the middle of the notebook.
+## **Project Description**
+The primary objective of this project is to gain insights into customer behavior, preferences, and churn patterns by analyzing the provided dataset. This information can be valuable for the service provider to improve customer retention, develop targeted marketing campaigns, optimize pricing strategies, and enhance overall customer satisfaction.
